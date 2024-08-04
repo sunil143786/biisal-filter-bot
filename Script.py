@@ -249,7 +249,10 @@ Title: {title}
 Rating: {rating}
 Genre: {genres}
 
-Description: {description}
+Description: 👋याहा पे आपको एक ही फाइल मिलेगी 👉GET FILE 👈 पर क्लिक करें... अगर आपको अन्य क्वालिटी वाली फाइल चाहिए... [ग्रुप मेन सर्च 🔍 करे ]
+@Jaynath_Request_Group
+@Jaynath_Request_Group
+@Jaynath_Request_Group
 
 {file_name}
 </b>"""
